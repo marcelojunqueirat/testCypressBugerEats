@@ -1,0 +1,52 @@
+{
+    "signUp": {
+        "name": "Marcelo Faker",
+        "cpf": "12345678999",
+        "email": "faker@hotmail.com",
+        "whatsapp": "35999999999",
+        "address": {
+            "postalcode": "37704057",
+            "street": "Rua Dona Maria Bastos",
+            "number": "88",
+            "details": "curva",
+            "district": "Jardim Regina",
+            "city_state": "Poços de Caldas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Luna Faker",
+        "cpf": "dd23456789a",
+        "email": "lunafaker@hotmail.com",
+        "whatsapp": "35999999999",
+        "address": {
+            "postalcode": "37704057",
+            "street": "Rua Dona Maria Bastos",
+            "number": "88",
+            "details": "curva",
+            "district": "Jardim Regina",
+            "city_state": "Poços de Caldas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Test Faker",
+        "cpf": "12345678999",
+        "email": "fakerhotmail",
+        "whatsapp": "35999999999",
+        "address": {
+            "postalcode": "37704057",
+            "street": "Rua Dona Maria Bastos",
+            "number": "88",
+            "details": "curva",
+            "district": "Jardim Regina",
+            "city_state": "Poços de Caldas/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}

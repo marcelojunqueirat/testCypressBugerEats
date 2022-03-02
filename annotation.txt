@@ -1,0 +1,4 @@
+npx cypress open => execução assistida
+npx cypress run => execução em background, headless (cria um video como evidencia de teste[pasta videos], caso de erro alem do video gera screenshot)
+
+npx cypress run -b chrome => Roda com base no chrome
